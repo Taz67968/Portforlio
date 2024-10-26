@@ -12,3 +12,7 @@
   --bg-color: #F0F0F6;
   --font: "Inter", sans-serif;
 }
+
+body{
+  background-color: var(--bg-color);
+}
