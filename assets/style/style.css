@@ -6,10 +6,10 @@
 }
 
 :root {
-  --primary-color: #FFB400;
-  --secondary-color: #FFB400F2;
-  --accent-color: #2B2B2B;
-  --bg-color: #F0F0F6;
+  --primary-color: #ffb400;
+  --secondary-color: #ffb400f2;
+  --accent-color: #2b2b2b;
+  --bg-color: #f0f0f6;
   --font: "Inter", sans-serif;
 }
 
@@ -56,7 +56,6 @@ body {
 }
 
 .b {
-
   img {
     width: 60%;
     height: auto;
