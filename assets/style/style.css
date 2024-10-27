@@ -16,3 +16,48 @@
 body{
   background-color: var(--bg-color);
 }
+
+.content {
+  display: grid;
+  grid-template-columns: 20% 80% 10%;
+  background-color: white;
+}
+
+.middle-sec {
+  text-align: center;
+}
+
+.section {
+display: flex;
+flex-direction: column;
+gap: 20px;
+background-color: white;
+}
+
+.sec-one{
+display: grid;
+grid-template-columns: 33.3% 33.3% 33.3%;
+align-items: center;
+}
+
+.sec-two {
+display: grid;
+grid-template-columns: 33.3% 33.3% 33.3%;
+align-items: center;
+}
+
+.head {
+  display: flex;
+  background-color: white;
+}
+
+.A {
+  align-content: space-between;
+}
+
+.B {
+  img {
+    width: 60%;
+    height: auto;
+  }
+}
