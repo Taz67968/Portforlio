@@ -13,7 +13,7 @@
   --font: "Inter", sans-serif;
 }
 
-body{
+body {
   background-color: var(--bg-color);
 }
 
@@ -28,22 +28,22 @@ body{
 }
 
 .section {
-display: flex;
-flex-direction: column;
-gap: 20px;
-background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: white;
 }
 
-.sec-one{
-display: grid;
-grid-template-columns: 33.3% 33.3% 33.3%;
-align-items: center;
+.sec-one {
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  align-items: center;
 }
 
 .sec-two {
-display: grid;
-grid-template-columns: 33.3% 33.3% 33.3%;
-align-items: center;
+  display: grid;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+  align-items: center;
 }
 
 .head {
@@ -51,11 +51,12 @@ align-items: center;
   background-color: white;
 }
 
-.A {
+.a {
   align-content: space-between;
 }
 
-.B {
+.b {
+
   img {
     width: 60%;
     height: auto;
