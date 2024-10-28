@@ -61,3 +61,11 @@ body {
     height: auto;
   }
 }
+
+.social {
+  background-color: #ffb400;
+}
+
+button {
+  background-color: #ffb400;
+}
